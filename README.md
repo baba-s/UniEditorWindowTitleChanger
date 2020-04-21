@@ -1,6 +1,6 @@
-﻿# Uni Editor Window Title Changer
+# Uni Editor Window Title Changer
 
-* Unity エディタのタイトルを変更できるエディタ拡張
+Unity エディタのタイトルを変更できるエディタ拡張
 
 ## 使用例
 
